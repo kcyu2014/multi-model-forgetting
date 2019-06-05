@@ -158,7 +158,7 @@ More configurations can be found [here](config.py).
 
 ## Author
 
-Yassine Bengio / [@yassineberne](yassine's)
+Yassine Benyahia / [@Wronskia](https://github.com/Wronskia)
 Kaicheng Yu / [@kcyu2014](https://scholar.google.de/citations?hl=de&user=j9OguiIAAAAJ)
 
 These two authors contributes equally. 
